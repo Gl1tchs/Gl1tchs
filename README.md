@@ -1,3 +1,3 @@
-### ようこそ私のプロファイル
+# ようこそ私のプロファイル
 
-I'm a fullstack web developer. Currently specializing in microservices. I can develop, maintain and publish services. Such languages as **python**, **java**, **rust** and **go**. I am a avarege linux enjoyer and **One Piece** fan.
+I'm student who is just a classic [linux enjoyer](https://wallpaperaccess.com/full/6999296.jpg). Currently learning **computer graphics, assembly language, embedded programming and IOT.**
