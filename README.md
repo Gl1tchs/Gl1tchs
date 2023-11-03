@@ -1,5 +1,5 @@
-# ようこそ私のプロファイル
+# Herzlich Willkommen!
 
-A curious person who loves to explore new things in fields such topics as physics, mathematics and computer science.
+I am a CS student who is curious about such fields as computers and it's architectures as well as physics and graphics.
 
-**Contact Info:** 1Gl1tch@protonmail.com
+**Contact Info:** berkeumtbiricik@gmail.com
