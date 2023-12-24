@@ -1,5 +1,5 @@
 # Herzlich Willkommen!
 
-I am a CS student who is curious about such fields as computers and it's architectures as well as physics and graphics.
+I am a CS student who is interested in such fields as computers, physics, mathematics, and graphics.
 
 **Contact Info:** berkeumtbiricik@gmail.com
