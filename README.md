@@ -1,3 +1,3 @@
-## Hi there 👋
+# Hi there, I'm Berke
 
-I am a cs student in germany interested in graphics, physics and photography.
+I am currently studying Computer Science at FAU-Erlangen. I am interested in High-Performance Computing (HPC) and GPU programming as well as Physics and Machine Learning.
